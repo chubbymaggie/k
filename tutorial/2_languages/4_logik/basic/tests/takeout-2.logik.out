@@ -1,4 +1,0 @@
-\Q"L" |-> cons ( a (  ), cons ( b (  ), cons ( c (  ), cons ( d (  ), nil (  ) ) ) ) )\E
-\Q"L" |-> cons ( b (  ), cons ( a (  ), cons ( c (  ), cons ( d (  ), nil (  ) ) ) ) )\E
-\Q"L" |-> cons ( b (  ), cons ( c (  ), cons ( a (  ), cons ( d (  ), nil (  ) ) ) ) )\E
-\Q"L" |-> cons ( b (  ), cons ( c (  ), cons ( d (  ), cons ( a (  ), nil (  ) ) ) ) )\E

@@ -1,4 +1,0 @@
-<k>
-    #open ( "tests/regression/java-rewrite-engine/io/test1/files/dir2" , "r" 
-      )
-</k>

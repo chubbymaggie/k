@@ -1,7 +1,0 @@
-<k>
-    foo ( true , '`(`) , x ,  )
-</k>
-<in>
-    ListItem(#buffer ( "" ))
-    ListItem(#istream ( 0 ))
-</in>

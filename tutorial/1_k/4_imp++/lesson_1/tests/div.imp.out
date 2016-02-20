@@ -1,9 +1,0 @@
-<T>
-    <k>
-        ++ x ~> HOLE / (++ x / x) ~> (y = HOLE ;)
-    </k>
-    <state>
-        x |-> 1
-        y |-> 0
-    </state>
-</T>

@@ -1,6 +1,0 @@
-Search results:
-
-Solution 1:
-V:K -->
-closure ( f00 |-> (#symInt(1)) f01 |-> (#symInt(2)) f02 |-> (#symInt(3)) f03
-   |-> (#symInt(4)) , x -> f03 (f03 x) )
